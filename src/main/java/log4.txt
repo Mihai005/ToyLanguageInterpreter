@@ -1,0 +1,2349 @@
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->int
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->int
+2-->Ref(int)
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->int
+2-->Ref(int)
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->int
+2-->Ref(int)
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+1-->int
+2-->Ref(int)
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+4-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+4-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+4-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+4-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+4-->20
+5-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+4-->20
+5-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+4-->20
+5-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+4-->20
+5-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+5-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+5-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+5-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+5-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+5-->20
+6-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+5-->20
+6-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+5-->20
+6-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+5-->20
+6-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+5-->20
+6-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+8-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+8-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+8-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+8-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+8-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+8-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+8-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+7-->20
+8-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v = Ref(int);new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+v = Ref(int)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(v,20);a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+new(v,20)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->int
+
+MyStack contains: a = Ref(Ref(int));new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+a = Ref(Ref(int))
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: new(a,v);print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+new(a,v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(v);print(a)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: print(a)
+
+Out: 
+int
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->Ref(int)
+v-->int
+
+MyStack contains: 
+Out: 
+int
+Ref(int)
+
+FileTable:
+
+MyHeap contains: 
+1-->20
+2-->int
+
+]

@@ -1,0 +1,1088 @@
+MyDictionary contains: 
+
+MyStack contains: varf = String;varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf = String
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf=test.in
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+openRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varc = int
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+print(varc)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+print(varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+
+Out: 
+10
+15
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: 
+Out: 
+10
+15
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: varf = String;varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf = String
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf=test.in
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+openRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varc = int
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+print(varc)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+print(varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+
+Out: 
+10
+15
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: 
+Out: 
+10
+15
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: varf = String;varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf = String
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf=test.in
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+openRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varc = int
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+print(varc)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+print(varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+
+Out: 
+10
+15
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: 
+Out: 
+10
+15
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: varf = String;varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf = String
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf=test.in
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+openRFile(varf)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varc = int
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+print(varc)
+
+Out: 
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+print(varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+
+Out: 
+10
+15
+
+FileTable:
+test.in
+
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: 
+Out: 
+10
+15
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: varf = String;varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf = String
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: varf=test.in;openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varf=test.in
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: openRFile(varf);varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+openRFile(varf)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: varc = int;readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+varc = int
+
+Out: 
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: readFile(varf,varc);print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->0
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+print(varc)
+
+Out: 
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: readFile(varf,varc);print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->10
+
+MyStack contains: print(varc);closeRFile(varf)
+readFile(varf,varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: print(varc);closeRFile(varf)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+print(varc)
+
+Out: 
+10
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: closeRFile(varf)
+
+Out: 
+10
+15
+
+FileTable:
+test.in
+
+MyHeap contains: 
+
+MyDictionary contains: 
+varf-->test.in
+varc-->15
+
+MyStack contains: 
+Out: 
+10
+15
+
+FileTable:
+
+MyHeap contains: 
+

@@ -1,0 +1,1716 @@
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+a = bool
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+v = int
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+a=true
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+MyList contains: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+a = bool
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+v = int
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+a=true
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+MyList contains: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+a = bool
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+v = int
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+a=true
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+MyList contains: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+a = bool
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+v = int
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+a=true
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+MyList contains: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+a = bool
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+v = int
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+a=true
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+MyList contains: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+a = bool
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+v = int
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+a=true
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+MyList contains: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+a = bool
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+v = int
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+a=true
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+MyList contains: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+a = bool
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+v = int
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+a=true
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3}
+;print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+MyList contains: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+a = bool
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+v = int
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+a=true
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+MyList contains: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+MyList contains: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+a = bool
+
+Out: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+v = int
+
+Out: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+a=true
+
+Out: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+Out: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+Out: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+Out: 
+FileTable:
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+Out: 2
+
+FileTable:
+
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: 
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+a = bool
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a = bool a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+v = int
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a = bool a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: v = int a = bool a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+a=true
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: v = int a = bool a=true;if(a){v=2}else{v=3};print(v) a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a=true v = int a = bool a=true;if(a){v=2}else{v=3};print(v) a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a=true v = int if(a){v=2}else{v=3};print(v) a = bool a=true;if(a){v=2}else{v=3};print(v) a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: if(a){v=2}else{v=3} a=true v = int if(a){v=2}else{v=3};print(v) a = bool a=true;if(a){v=2}else{v=3};print(v) a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: if(a){v=2}else{v=3} a=true v=2 v = int if(a){v=2}else{v=3};print(v) a = bool a=true;if(a){v=2}else{v=3};print(v) a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+Out: 2
+
+FileTable:
+
+MyBinaryTree contains: print(v) if(a){v=2}else{v=3} a=true v=2 v = int if(a){v=2}else{v=3};print(v) a = bool a=true;if(a){v=2}else{v=3};print(v) a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v) v = int;a=true;if(a){v=2}else{v=3};print(v) 
+MyDictionary contains: 
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: 
+MyDictionary contains: 
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+a = bool
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a = bool
+a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+v = int
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a = bool
+a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: v = int
+a = bool
+a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+a=true
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: v = int
+a = bool
+a=true;if(a){v=2}else{v=3};print(v)
+a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a=true
+v = int
+a = bool
+a=true;if(a){v=2}else{v=3};print(v)
+a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: a=true
+v = int
+if(a){v=2}else{v=3};print(v)
+a = bool
+a=true;if(a){v=2}else{v=3};print(v)
+a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: if(a){v=2}else{v=3}
+a=true
+v = int
+if(a){v=2}else{v=3};print(v)
+a = bool
+a=true;if(a){v=2}else{v=3};print(v)
+a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: print(v)
+
+Out: 
+FileTable:
+
+MyBinaryTree contains: if(a){v=2}else{v=3}
+a=true
+v=2
+v = int
+if(a){v=2}else{v=3};print(v)
+a = bool
+a=true;if(a){v=2}else{v=3};print(v)
+a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: a-->true
+v-->2
+
+MyStack contains: 
+Out: 2
+
+FileTable:
+
+MyBinaryTree contains: print(v)
+if(a){v=2}else{v=3}
+a=true
+v=2
+v = int
+if(a){v=2}else{v=3};print(v)
+a = bool
+a=true;if(a){v=2}else{v=3};print(v)
+a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+MyDictionary contains: 
+
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+a = bool
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+a=true
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+a-->true
+v-->2
+
+MyStack contains: print(v)
+
+Out: 
+
+FileTable:
+
+
+MyDictionary contains: 
+a-->true
+v-->2
+
+MyStack contains: 
+Out: 
+2
+
+FileTable:
+
+
+MyDictionary contains: 
+
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+a = bool
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+a=true
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+a-->true
+v-->2
+
+MyStack contains: print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+MyDictionary contains: 
+a-->true
+v-->2
+
+MyStack contains: 
+Out: 
+2
+
+FileTable:
+
+MyHeap contains: 
+
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: a = bool;v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+a = bool
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+a = bool
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->false
+
+MyStack contains: v = int;a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->false
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->false
+v-->0
+
+MyStack contains: a=true;if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+a=true
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->false
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+a=true
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: if(a){v=2}else{v=3};print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: print(v)
+if(a){v=2}else{v=3}
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->true
+v-->0
+
+MyStack contains: print(v)
+v=2
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->true
+v-->2
+
+MyStack contains: print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->true
+v-->2
+
+MyStack contains: print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+a-->true
+v-->2
+
+MyStack contains: 
+Out: 
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]

@@ -1,0 +1,2223 @@
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v = int;v=4;(while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+v=4
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+v=4
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: 
+Out: 
+4
+3
+2
+1
+0
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v = int;v=4;(while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+v=4
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+v=4
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: 
+Out: 
+4
+3
+2
+1
+0
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v = int;v=4;(while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+v = int
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: v=4;(while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+v=4
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+v=4
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: (while(v>0) print(v);v=v-1);print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->4
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->3
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->2
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+print(v);v=v-1
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+print(v)
+
+Out: 
+4
+3
+2
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->1
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+v=v-1
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+(while(v>0) print(v);v=v-1)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: print(v)
+
+Out: 
+4
+3
+2
+1
+
+FileTable:
+
+MyHeap contains: 
+
+]
+[PrgState with id: 0
+MyDictionary contains: 
+v-->0
+
+MyStack contains: 
+Out: 
+4
+3
+2
+1
+0
+
+FileTable:
+
+MyHeap contains: 
+
+]
